@@ -1,0 +1,4 @@
+SOFTWARE: Sistema de facturación e inventario AMVstore
+VERSIÓN: 1.0
+FUENTE: https://github.com/peretch/facturacion
+PROPIEDAD: licencia abierta EUPL 1.1
